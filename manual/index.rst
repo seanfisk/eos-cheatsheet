@@ -26,6 +26,7 @@
    gui-toolkits
    envvars
    contributing
+   machine_os_sw_info
 
 .. only:: build_html
 
